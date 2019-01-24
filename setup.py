@@ -60,7 +60,7 @@ packages = find_packages()
 
 setup(
     name='Flask-Security',
-    version='3.0.0~meltano',
+    version='3.0.0~meltano.0.1.0',
     description=__doc__,
     long_description=readme,
     keywords='flask security',
