@@ -59,15 +59,15 @@ install_requires = [
 packages = find_packages()
 
 setup(
-    name='Flask-Security',
-    version='3.0.0~meltano.0.1.0',
+    name='meltano-flask-security',
+    version='0.1.0',
     description=__doc__,
     long_description=readme,
     keywords='flask security',
     license='MIT',
     author='Matt Wright',
     author_email='matt@nobien.net',
-    url='https://github.com/mattupstate/flask-security',
+    url='https://github.com/meltano/flask-security',
     packages=packages,
     zip_safe=False,
     include_package_data=True,
